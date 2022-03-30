@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aml ./ ../ /boot
+ls -mal ./ ../ /boot
